@@ -1,0 +1,22 @@
+{
+  "name": "gidsor.github.io",
+  "version": "1.0.0",
+  "description": "Portfolio website",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gidsor/gidsor.github.io.git"
+  },
+  "author": "Vadim Denisov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gidsor/gidsor.github.io/issues"
+  },
+  "homepage": "https://github.com/Gidsor/gidsor.github.io#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
